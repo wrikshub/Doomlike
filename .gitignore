@@ -58,17 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-doom-project/Assets/Boring/Settings/UniversalRP-LowQuality.asset
-doom-project/Assets/Boring/Settings/UniversalRP-MediumQuality.asset
-doom-project/Library/Bee/1900b0aE.dag
-doom-project/Library/Bee/1900b0aE.dag.json
-doom-project/Library/Bee/1900b0aE.dag_fsmtime
-doom-project/Library/Bee/profiler.json
-doom-project/Library/Bee/tundra.digestcache
-doom-project/Library/Bee/tundra.log.json
-doom-project/Library/Bee/TundraBuildState.state
-doom-project/Library/SceneVisibilityState.asset
+doom-project/Library/ArtifactDB
+doom-project/Library/ShaderCache.db
+doom-project/Library/SourceAssetDB
+doom-project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+doom-project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+doom-project/Library/UIElements/EditorWindows/UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
+doom-project/Library/ShaderCache.db
 doom-project/Library/Search/transactions.db
-doom-project/Library/ShaderCache/EditorEncounteredVariants
-doom-project/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
-doom-project/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
