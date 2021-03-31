@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+doom-project/Library/ArtifactDB
+doom-project/Library/ShaderCache.db
+doom-project/Library/SourceAssetDB
+doom-project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
