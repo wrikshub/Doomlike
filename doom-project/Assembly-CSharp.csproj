@@ -56,12 +56,10 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Boring\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Boring\TutorialInfo\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
+     <None Include="Assets\Misc\Skybox\Readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.1.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
