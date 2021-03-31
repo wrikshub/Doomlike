@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+doom-project/[Ll]ibrary/
+doom-project/[Tt]emp/
+doom-project/[Oo]bj/
+doom-project/[Bb]uild/
+doom-project/[Bb]uilds/
+doom-project/[Ll]ogs/
+doom-project/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +58,19 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+doom-project/Library/ArtifactDB
+doom-project/Temp/UnityLockfile
+doom-project/Library/ArtifactDB
+doom-project/Library/Bee/1900b0aE.dag_fsmtime
+doom-project/Library/Bee/profiler.json
+doom-project/Library/Bee/tundra.digestcache
+doom-project/Library/EditorInstance.json
+doom-project/Library/SourceAssetDB
+doom-project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+doom-project/Temp/workerlic
+doom-project/Library/ArtifactDB
+doom-project/Library/Bee/1900b0aE.dag_fsmtime
+doom-project/Library/Bee/profiler.json
+doom-project/Library/Bee/tundra.digestcache
+doom-project/Library/SourceAssetDB
+doom-project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
